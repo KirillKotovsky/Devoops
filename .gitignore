@@ -1,2 +1,5 @@
-gab1.tmp
-gab2.tmp
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+*.tfvars
+.terraform/
